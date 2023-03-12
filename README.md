@@ -2,7 +2,7 @@
 <h3 align="center">I am The Programmer That Always Sleep :3</h3>
 <img align="right" alt="Coding" width="400" src="https://images.gamebanana.com/img/ico/sprays/630219838ca8a.gif">
 
-<p align="left">
+<p align="left">Hanya mahasiswa yang mencoba terbaik
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
